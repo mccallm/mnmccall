@@ -13,20 +13,20 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "Dark"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = "native"
+font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "The McCall Research Group takes a collaborative multidisciplinary approach to quantitative research in genomics, cellular imaging, and systems biology."
 
 ############################
 ## Site Features
@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = false
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = true, publication = true, talk = true}
+show_related = {post = false, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -84,8 +84,8 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = ""
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -120,10 +120,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "mccall.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "@matthewnmccall"
 
 ############################
 ## Regional Settings
@@ -173,7 +173,7 @@ plugins_js  = []
   date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  citation_style = "mla"
 
 # Configuration of project pages.
 [projects]
@@ -185,6 +185,7 @@ plugins_js  = []
   post_view = 2
   publication_view = 2
   talk_view = 2
+  project_view = 2
 
 ############################
 ## Comments

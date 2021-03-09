@@ -3,23 +3,31 @@ title: Network Modeling
 summary: Methods to model cellular networks.
 authors:
 - david_burton
+- michael_lansford
 - daniel_munoz_huerta
-share: false
-comment: false
+tags: []
+categories: []
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 
-  focal_point: 
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
-links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,7 +38,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Genes do not act in isolation; rather they act together in complex networks that govern cellular function. Investigation of the interactions between genes (and gene products) is necessary to elucidate cellular mechanisms. Disease progression produces drastic changes in genetic networks critical to normal cellular function. Accurate models of the gene regulatory networks present in diseased and normal cells can further our understanding of the disease and potentially inform both prognosis and treatment.

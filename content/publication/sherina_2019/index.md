@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Preprint"
   url: "https://arxiv.org/abs/1910.13936"
-url_pdf: ''
+url_pdf: 'files/sherina_2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

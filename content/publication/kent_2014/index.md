@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Paper"
   url: "https://doi.org/10.1093/nar/gku461"
-url_pdf: ''
+url_pdf: 'files/kent_2014.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

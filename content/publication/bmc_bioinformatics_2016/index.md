@@ -31,12 +31,13 @@ summary:
 
 tags:
 - microRNA
+- qPCR
 featured: false
 
 links:
 - name: "Paper"
   url: "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0987-8"
-url_pdf: ''
+url_pdf: 'files/bmc_bioinformatics_2016.pdf'
 url_code: 'http://bioconductor.org/packages/release/bioc/html/miRcomp.html'
 url_dataset: 'https://bioconductor.org/packages/release/data/experiment/html/miRcompData.html'
 url_poster: ''

@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Paper"
   url: "http://www.cell.com/trends/genetics/fulltext/S0168-9525(17)30235-4"
-url_pdf: ''
+url_pdf: 'files/trends_in_genetics_2018.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

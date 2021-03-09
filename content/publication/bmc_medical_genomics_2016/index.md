@@ -1,5 +1,5 @@
 ---
-title: "A microRNA biomarker of hepatocellular carcinoma recurrence following liver transplantation accounting for within-patient heterogeneity."
+title: "A microRNA biomarker of hepatocellular carcinoma recurrence following liver transplantation accounting for within-patient heterogeneity"
 authors:
 - lilly_xie
 - Anthony Almudevar
@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Paper"
   url: "https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-016-0179-4"
-url_pdf: ''
+url_pdf: 'files/bmc_medical_genomics_2016.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

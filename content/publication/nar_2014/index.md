@@ -37,7 +37,7 @@ featured: false
 links:
 - name: "Paper"
   url: "https://doi.org/10.1093/nar/gkt1204"
-url_pdf: ''
+url_pdf: 'files/nar_2014.pdf'
 url_code: 'https://bioconductor.org/packages/frma/'
 url_dataset: ''
 url_poster: ''

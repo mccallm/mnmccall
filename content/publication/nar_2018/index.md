@@ -31,7 +31,7 @@ featured: true
 links:
 - name: "Paper"
   url: "https://doi.org/10.1093/nar/gky626"
-url_pdf: ''
+url_pdf: 'files/nar_2018.pdf'
 url_code: 'https://github.com/isarnassiri/CMEA'
 url_dataset: ''
 url_poster: ''

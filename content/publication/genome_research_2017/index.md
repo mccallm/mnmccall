@@ -46,7 +46,7 @@ featured: true
 links:
 - name: "Paper"
   url: "https://genome.cshlp.org/content/27/10/1769"
-url_pdf: ''
+url_pdf: 'files/genome_research_2017.pdf'
 url_code: ''
 url_dataset: 'http://bioconductor.org/packages/microRNAome/'
 url_poster: ''

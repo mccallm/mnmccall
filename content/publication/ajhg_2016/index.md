@@ -27,12 +27,13 @@ summary:
 
 tags:
 - GTEx
+- Tissue Composition
 featured: true
 
 links:
 - name: "Paper"
   url: "https://doi.org/10.1016/j.ajhg.2016.07.007"
-url_pdf: ''
+url_pdf: 'files/ajhg_2016.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,5 +58,4 @@ image:
   preview_only: false
 
 ---
-
 

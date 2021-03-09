@@ -28,12 +28,13 @@ summary:
 
 tags:
 - qPCR
+- Missing Data
 featured: false
 
 links:
 - name: "Paper"
   url: "https://doi.org/10.1093/bioinformatics/btu239"
-url_pdf: ''
+url_pdf: 'files/bioinformatics_2014.pdf'
 url_code: 'https://bioconductor.org/packages/release/bioc/html/nondetects.html'
 url_dataset: ''
 url_poster: ''

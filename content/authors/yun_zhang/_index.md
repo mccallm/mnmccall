@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Staff Scientist at JCVI
+role: Assistant Professor at JCVI
 
 # Organizations/Affiliations
 organizations:

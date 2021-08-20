@@ -13,4 +13,5 @@ A Global Talent is a leader or emerging leader in one of the following fields:
 - academia or research
 - arts and culture
 - digital technology
+
 The Wellcome Trust endorsed Dr. Nassiri as a leader or potential leader in Research and Innovation. 

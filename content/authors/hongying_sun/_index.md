@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Alumni
+role: RNA Computational Scientist
 
 # Organizations/Affiliations
 organizations:

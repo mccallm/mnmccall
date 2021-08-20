@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Bioinformatician at University of Oxford
+role: Senior Bioinformatician at the Wellcome Trust Centre for Human Genetics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
-  url: "https://www.imm.ox.ac.uk/"
+- name: Wellcome Trust Centre for Human Genetics
+  url: "https://www.well.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -67,6 +67,6 @@ email: ""
 user_groups:
 - Postdoctoral Alumni
 ---
-Isar Nassiri is currently a Senior Bioinformatician at the University of Oxford. In an interview, Isar provides insight into his work using the latest genomics technologies, touches on some of the challenges involved, and talks about his career and some of his achievements so far: https://www.oncology.ox.ac.uk/about-us/overview/60-seconds-with/isar-nassiri/
+Isar Nassiri is currently a Senior Bioinformatician at the Wellcome Trust Centre for Human Genetics. In an interview, Isar provides insight into his work using the latest genomics technologies, touches on some of the challenges involved, and talks about his career and some of his achievements so far: https://www.oncology.ox.ac.uk/about-us/overview/60-seconds-with/isar-nassiri/
 
 

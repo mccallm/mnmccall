@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: MS Student at Boston University
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+- name: Boston University
+  url: "https://www.bu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: BS in Computational Biology with a Minor in Statistics
+    institution: University of Rochester
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,5 +61,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Undergraduate Students
+- Undergraduate Alumni
 ---

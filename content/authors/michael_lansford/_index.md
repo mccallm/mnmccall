@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: PhD Student at University of Utah
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+- name: University of Utah
+  url: "https://www.utah.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -26,10 +26,13 @@ interests:
 
 education:
   courses:
-  - course:
-    institution:
-    year:
-
+  - course: BS in Computational Biology
+    institution: University of Rochester
+    year: 2021
+  - course: BA in Mathematics
+    institution: University of Rochester
+    year: 2021
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -61,6 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Undergraduate Students
+- Undergraduate Alumni
 ---
 

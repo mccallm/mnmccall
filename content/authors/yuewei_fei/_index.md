@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: MS Student at Carnegie Mellon University
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+- name: Carnegie Mellon University
+  url: "http://cbd.cmu.edu/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -25,9 +25,12 @@ interests:
 - MicroRNA
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: BS in Computational Biology
+    institution: University of Rochester
+    year: 2021
+  - course: BA in Brain and Cognitive Science
+    institution: University of Rochester
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -60,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Undergraduate Students
+- Undergraduate Alumni
 ---
-Yuewei Fei is majoring in Computational Biology and Brain and Cognitive Science at the University of Rochester. She is currently working on analyzig microRNA expression data.
+Yuewei Fei majored in Computational Biology and Brain and Cognitive Science at the University of Rochester. She worked on analyzing microRNA expression data.
 

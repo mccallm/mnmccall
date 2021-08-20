@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher at University of Oxford
+role: Senior Bioinformatician at University of Oxford
 
 # Organizations/Affiliations
 organizations:
@@ -67,6 +67,6 @@ email: ""
 user_groups:
 - Postdoctoral Alumni
 ---
-Isar Nassiri is currently a postdoctoral researcher in the Fairfax Lab. In an interview, Isar provides insight into his work using the latest genomics technologies, touches on some of the challenges involved, and talks about his career and some of his achievements so far: https://www.oncology.ox.ac.uk/about-us/overview/60-seconds-with/isar-nassiri/
+Isar Nassiri is currently a Senior Bioinformatician at the University of Oxford. In an interview, Isar provides insight into his work using the latest genomics technologies, touches on some of the challenges involved, and talks about his career and some of his achievements so far: https://www.oncology.ox.ac.uk/about-us/overview/60-seconds-with/isar-nassiri/
 
 

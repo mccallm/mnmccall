@@ -5,7 +5,7 @@ authors:
 - sami_leon
 ---
 
-In recognition of his contributions to the package, Sami Leon was added as an author of the [biclust][https://cran.r-project.org/web/packages/biclust/index.html] R package, which provides several algorithms to find biclusters in two-dimensional data.
+In recognition of his contributions to the package, Sami Leon was added as an author of the [biclust](https://cran.r-project.org/web/packages/biclust/index.html) R package, which provides several algorithms to find biclusters in two-dimensional data.
 
 <!--more-->
 

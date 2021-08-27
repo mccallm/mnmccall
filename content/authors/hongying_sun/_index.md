@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RNA Computational Scientist
+role: RNA Computational Scientist at Takeda
 
 # Organizations/Affiliations
 organizations:

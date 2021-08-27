@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student at Boston University
+role: MS Student in Bioinformatics at Boston University
 
 # Organizations/Affiliations
 organizations:
 - name: Boston University
-  url: "https://www.bu.edu"
+  url: "https://www.bu.edu/bioinformatics-ms/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -63,3 +63,4 @@ email: ""
 user_groups:
 - Undergraduate Alumni
 ---
+Benyu Zhou majored in Computational Biology with a minor in Statistics at the University of Rochester. He worked on analyzing microRNA expression data. He is now a student at Boston University where he is pursuing an M.S. in Bioinformatics. 

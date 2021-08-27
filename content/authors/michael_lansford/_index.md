@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student at University of Utah
+role: PhD Student in Molecular Biology at University of Utah
 
 # Organizations/Affiliations
 organizations:
 - name: University of Utah
-  url: "https://www.utah.edu/"
+  url: "https://bioscience.utah.edu/molecular_biology/index.php"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -66,4 +66,4 @@ email: ""
 user_groups:
 - Undergraduate Alumni
 ---
-
+Michael Lansford majored in Computational Biology and Mathematics at the University of Rochester. He worked on modeling gene regulatory networks in cancer cells. He is now a PhD student in Molecular Biology at the University of Utah. 

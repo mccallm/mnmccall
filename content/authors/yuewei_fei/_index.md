@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student at Carnegie Mellon University
+role: MS Student in Computational Biology at Carnegie Mellon University
 
 # Organizations/Affiliations
 organizations:
 - name: Carnegie Mellon University
-  url: "http://cbd.cmu.edu/index.html"
+  url: "https://www.cmu.edu/ms-compbio/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -65,5 +65,5 @@ email: ""
 user_groups:
 - Undergraduate Alumni
 ---
-Yuewei Fei majored in Computational Biology and Brain and Cognitive Science at the University of Rochester. She worked on analyzing microRNA expression data.
+Yuewei Fei majored in Computational Biology and Brain and Cognitive Science at the University of Rochester. She worked on analyzing microRNA expression data. She is now a student at Carnegie Mellon University where she is pursuing an M.S. in Computional Biology. 
 

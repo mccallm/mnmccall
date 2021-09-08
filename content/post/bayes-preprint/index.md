@@ -1,5 +1,5 @@
 ---
-title: Zach, Erik, and David co-author paper onsSelection of priors for hierarchical models.
+title: Zach, Erik, and David co-author paper on selection of priors for hierarchical models.
 date: 2021-08-26
 authors:
 - zachary_brehm

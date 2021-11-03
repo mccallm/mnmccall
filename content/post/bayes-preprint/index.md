@@ -1,15 +1,13 @@
 ---
-title: Zach, Erik, and David co-author paper on selection of priors for hierarchical models.
-date: 2021-08-26
+title: David co-authors paper on air pollution and the immune response to respiratory infection.
+date: 2021-09-30
 authors:
-- zachary_brehm
-- erik_vonkaenel
 - david_burton
 ---
 
-Congratulations to Zachary Brehm, Erik VonKaenel, and David Burton on their preprint entitled, Selection of inverse gamma and half-t priors for hierarchical models: sensitivity and recommendations.
+Congratulations to Daniel Croft and David Burton on their paper entitled, The effect of air pollution on the transcriptomics of the immune response to respiratory infection.
 
 
 <!--more-->
 
-In this study, they found that the posterior distribution of the standard deviation had smaller bias under half-t priors than under their inverse-gamma counterparts; however, inverse gamma priors generally gave similar coverage but had smaller interval lengths than their half-t prior counterparts. Their results will inform prior specification for hierarchical models, allowing practitioners to better align their priors with their respective models and goals. The full paper is available here: https://arxiv.org/abs/2108.12045
+Overall, this epidemiological study suggests that combustion related pollution, particularly black carbon, is associated with changes in gene expression within innate immune pathways. Increased concentrations in the majority of pollutants also appear to correspond to changes in expression to protein folding and iron homeostasis. Future controlled exposure studies informed by epidemiological studies are needed to further explore the relationship between inflammatory and immune responses to particulate air pollution in patients with respiratory infection. The full paper is available here: https://www.nature.com/articles/s41598-021-98729-8

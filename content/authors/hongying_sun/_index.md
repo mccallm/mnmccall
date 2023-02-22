@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor at URMC Department of Surgery
 
 # Organizations/Affiliations
 organizations:
-- name: URMC Department of Surgery
-  url: "https://www.urmc.rochester.edu/people/28325413-hongying-sun"
+- name: University of Rochester
+  url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

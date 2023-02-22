@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Sr. Associate Data Scientist
+role: Sr. Associate Data Scientist at Travelers
 
 # Organizations/Affiliations
 organizations:
-- name: Travelers
+- name: Travelers Insurance
   url: "https://www.travelers.com/"
 
 # Short bio (displayed in user profile at end of posts)

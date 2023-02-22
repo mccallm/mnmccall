@@ -39,7 +39,7 @@ featured: true
 links:
 - name: "Paper"
   url: "https://doi.org/10.1016/j.celrep.2021.110136"
-url_pdf: 'files/mcmurray_2021.pdf'
+url_pdf: 'files/cell_reports_2021.pdf'
 url_code: 'https://bioconductor.org/packages/ternarynet/'
 url_dataset: ''
 url_poster: ''
